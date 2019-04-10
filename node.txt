@@ -1,0 +1,7 @@
+#节点列表
+
+#joyo.ga节点1
+ssr://MjA3LjE0OC4xMjQuMjUzOjU5NzA0Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpjM055Wm5KbFpTNTBhdy8_b2Jmc3BhcmFtPQ
+
+#joyo.ga节点2
+ssr://MTcwLjEzMC4xNS4xOTg6ODA6YXV0aF9jaGFpbl9hOm5vbmU6aHR0cF9zaW1wbGU6Wm5WamEyZG1kdy8_b2Jmc3BhcmFt
